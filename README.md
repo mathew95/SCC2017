@@ -1,7 +1,9 @@
 # SCC2017
 this is a test repository for practical session
 
-%nigga% 
+~~~~~
+nigga
+~~~~~
 
 Look down nigga:
 - item 1 
