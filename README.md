@@ -2,7 +2,7 @@
 this is a test repository for practical session
 
 ~~~~~
-nigga
+tou ma muda as ho
 ~~~~~
 
 Look down nigga:
